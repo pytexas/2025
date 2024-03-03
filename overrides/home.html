@@ -1,0 +1,41 @@
+{% extends "main.html" %}
+<!-- Remove side nav bar on large screens on desktop -->
+{% block header %}
+  {{ super() }}
+
+  <!-- Additional styles for landing page -->
+  <style>
+
+    /* Hide table of contents */
+    @media screen and (min-width: 60em) {
+      .md-sidebar--secondary {
+        display: none;
+      }
+    }
+
+    /* Hide navigation */
+    @media screen and (min-width: 76.25em) {
+      .md-sidebar--primary {
+        display: none;
+      }
+    }
+</style>
+{% endblock %}
+{% block hero %}
+<div class="pytx-hero pytx-container">
+    <img src="assets/images/2024_wdots.svg" class="pytx-hero__image"/>
+    <div class="pytx-hero__content">
+        <a href="https://pretix.eu/pytexas/2025/" class="pytx-button pytx-button--primary">
+          Purchase Tickets
+        </a>
+    </div>
+</div>
+{% endblock %}
+{% block toc %}
+<p>shit</p>
+{% endblock %}
+{% block content %}
+    <div style="text-align: center;">
+        {% include "partials/content.html" %}
+    </div>
+{% endblock %}

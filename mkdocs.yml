@@ -1,0 +1,79 @@
+site_name: PyTexas Conference
+site_author: PyTexas Foundation
+site_url: https://pytexas.org/2025/
+repo_url: https://github.com/pytexas/conference-site
+repo_name: pytexas/conference-site
+edit_uri: edit/main/docs/
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  custom_dir: overrides
+  locale: en
+  logo: assets/images/2025-logo.png
+  favicon: assets/images/favicon.png
+  features:
+    - announce.dismiss
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - toc.integrate
+    - toc.follow
+  palette:
+    - scheme: pytx2025_light
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: pytx2025_dark
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+copyright: Copyright &copy; 2015-2025 - PyTexas Foundation
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - toc:
+      permalink: true
+      toc_depth: 3
+nav:
+  - Home: index.md
+  - About: about.md
+  - Attend: attend.md
+  - Sponsors:
+    - sponsors/sponsor-us.md
+  - Speaking:
+    - Speaking at PyTexas: schedule/speaking.md
+  - FAQ: faq.md
+plugins:
+  - search
+  - social:
+      cards_layout_options:
+        background_color: "#DAD5B9"
+        color: "#4833C8"
+        
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pytexas
+      name: Twitter
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jNPAbcNukj
+      name: Discord
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/pytexas-foundation
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/pytexas
+    - icon: fontawesome/brands/meetup
+      link: https://www.meetup.com/pytexas-virtual-meetup/
+    - icon: fontawesome/brands/github
+      link: https://github.com/pytexas
