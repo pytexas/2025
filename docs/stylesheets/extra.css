@@ -1,33 +1,27 @@
-[data-md-color-scheme="pytx2025_light"] {
-    --md-primary-fg-color: #DAD5B9;
-    --md-default-fg-color: #DAD5B9;
-    --md-primary-fg-color--light: #9185DE;
-    --md-default-fg-color--light: #9185DE;
-    --md-primary-fg-color--dark: #4833c8;
-    --md-default-fg-color--dark: #4833C8;
-    --md-primary-fg-color--transparent: rgba(72, 51, 200, 0.50);
-    --md-primary-bg-color: #1B211C;
-    --md-primary-bg-color--transparent: color-mix(in srgb, rgba(27, 33, 28) 20%, white);
+[data-md-color-scheme="pytx2025"] {
+    --logo-gray: #959595;
+    --logo-light-gray: #b8b8b8;
+    --logo-yellow: #ffdd67;
+    --dark-yellow: #f7c000;
+    --python-dark-blue: #306998;
+    --background-color: #ffffff;
+
+    --md-primary-fg-color: var(--background-color);
+    --md-default-fg-color: var(--background-color);
+    --md-primary-fg-color--light: var(--python-dark-blue);
+    --md-default-fg-color--light: var(--python-dark-blue);
+    --md-primary-fg-color--dark: var(--dark-yellow);
+    --md-default-fg-color--dark: var(--dark-yellow);
+    --md-typeset-a-color: var(--python-dark-blue);
+    --md-primary-fg-color--transparent: #f7c000;
+    --md-primary-bg-color: #000000;
+    --md-primary-bg-color--transparent: #f7c000;
     --md-default-bg-color: #1B211C;
-    --md-accent-fg-color: #FF6B6B;
-    --md-accent-fg-color--transparent: rgba(255, 107, 107, 0.50);
-    --md-accent-bg-color: #DAD5B9;
+    --md-accent-fg-color: #f7c000;
+    --md-accent-fg-color--transparent: #f7c000;
+    --md-accent-bg-color: #B8B8B8;
 }
 
-[data-md-color-scheme="pytx2025_dark"] {
-    --md-primary-fg-color: #1B211C;
-    --md-default-fg-color: #1B211C;
-    --md-primary-fg-color--light: #FF6B6B;
-    --md-default-fg-color--light: #FF6B6B;
-    --md-primary-fg-color--dark: #4833C8;
-    --md-default-fg-color--dark: #4833C8;
-    --md-primary-fg-color--transparent: rgba(72, 51, 200, 0.50);
-    --md-primary-bg-color: #DAD5B9;
-    --md-default-bg-color: #DAD5B9;
-    --md-accent-fg-color: #FF6B6B;
-    --md-accent-fg-color--transparent: rgba(255, 107, 107, 0.50);
-    --md-accent-bg-color: #BDD0C1;
-}
 
 .md-container {
     background: var(--md-primary-fg-color);
@@ -78,12 +72,12 @@ thead {
 }
 
 .pytx-container {
-    background: linear-gradient(to right, var(--md-primary-fg-color--transparent), var(--md-accent-fg-color--transparent));
+    background: var(--md-primary-bg-color);
     display: flex;
     flex-direction: column;
     flex-grow: 1;
     height: 100%;
-    padding-top: .0rem;
+    padding-top: .5rem;
 }
 
 .pytx-hero {
@@ -100,8 +94,8 @@ thead {
 .pytx-hero__image {
     align-self: center;
     order: 0;
-    max-height: 30rem;
-    width: 75%;
+    max-height: 25rem;
+    padding-bottom: 1rem;
 }
 
 .pytx-button {
@@ -120,29 +114,27 @@ thead {
 }
 
 .pytx-button--primary {
-    background-color: var(--md-primary-fg-color--dark);
-    border-color: var(--md-primary-bg-color);
-    color: var(--md-primary-bg-color--transparent);
+    background-color: var(--dark-yellow);
+    color: var(--md-primary-bg-color) !important;
 }
 
 
 .pytx-button:focus,
 .pytx-button:hover {
-    background-color: var(--md-primary-bg-color);
-    border-color: var(--md-accent-fg-color);
-    color: var(--md-primary-fg-color);
+    background-color: var(--python-dark-blue);
+    color: var(--md-primary-bg-color);
 }
 
 .email-button--primary {
-    background-color: var(--md-primary-fg-color--dark);
-    border-color: var(--md-primary-bg-color);
-    color: var(--md-primary-bg-color--transparent);
+    background-color: var(--dark-yellow);
+    border-color: var(--python-dark-blue) !important;
+    color: var(--md-primary-bg-color) !important;
 }
 
 
-.email-button:focus,
-.email-button:hover {
-    background-color: var(--md-primary-bg-color);
-    border-color: var(--md-accent-fg-color);
-    color: var(--md-primary-fg-color);
+.md-button:focus,
+.md-button:hover {
+    background-color: var(--python-dark-blue) !important;
+    border-color: var(--md-accent-fg-color) !important;
+    color: var(--md-primary-bg-color) !important;
 }

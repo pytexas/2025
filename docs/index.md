@@ -4,7 +4,7 @@ template: home.html
 description: The PyTexas 2025 Conference will be April 19 - 21, 2025 in Austin, Texas. Get your ticket today! We hope to see y'all there!
 ---
 
-# Deep in the 💜 of Texas
+# Deep in the 💛 of Texas
 ## April 11 - 13, 2025 in Austin, TX
 
 Join us for the largest gathering of Python developers within the great state of Texas. We'll discuss software development, data science, community, and of course: Python.

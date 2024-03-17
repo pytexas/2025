@@ -69,7 +69,7 @@ If the parking garage is full, there are other parking options nearby.
 * [Violet Crown parking garage](https://www.parkme.com/lot/26607/amli-on-2nd-parking-austin-tx)
 * Street parking
 
-**[Parking Options Map](../assets/docs/downtownparking.pdf)**
+**[Parking Options Map](../assets/docs/downtownparkingmap.pdf)**
 
 ## 2025 Health and Safety Guidelines
 
