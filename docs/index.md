@@ -15,40 +15,41 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    PyTexas wouldn't be possible without our sponsors. Check out our [Prospectus](https://drive.google.com/file/d/1q1txXEPwDC79wNBa8x7SkQsbnjviCfAj/view)
-    and sponsor PyTexas today.
+    PyTexas wouldn't be possible without our sponsors. Check back soon, or sign up for our mailing list to be notified when the prospectus opens. <!--Check out our [Prospectus](https://drive.google.com/file/d/1q1txXEPwDC79wNBa8x7SkQsbnjviCfAj/view) and sponsor PyTexas today.-->
 
 -   :fontawesome-solid-ticket:{ .lg .middle} __Attend__
 
     ---
 
-    Early bird tickets for PyTexas 2025 are now on sale!
+    Early bird tickets will go on sale in October 2024.
 
-    [:octicons-arrow-right-24: Purchase Tickets](https://pretix.eu/pytexas/2025/)
+<!--    Early bird tickets for PyTexas 2025 are now on sale!
+
+    [:octicons-arrow-right-24: Purchase Tickets](https://pretix.eu/pytexas/2025/) -->
 
 -   :fontawesome-solid-microphone-lines:{ .lg .middle} __Speak__
 
     ---
 
-    Our [Call for Proposals (CFP)](https://pretalx.com/pytexas-2025/) will be opening October 1, 2025. Check back later to apply.
+    Our Call for Proposals (CFP) <!--(https://pretalx.com/pytexas-2025/)--> will be opening October 1, 2024. Check back later to apply.
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 
     ---
 
-    Review our Code of [Conduct](about/#code-of-conduct).
+    Review our [Code of Conduct](about/#code-of-conduct).
 
 -   :fontawesome-solid-building:{ .lg .middle} __Venue__
 
     ---
 
-    We will be returning to the [Austin Central Library](attend/#venue)
+    We will be returning to the [Austin Central Library](attend/#venue).
 
 -   :fontawesome-regular-envelope:{ .lg .middle} __Join Our Mailing List__
 
     ---
 
-    Get the latest news about the PyTexas Conference.
+    Get the latest news about the PyTexas Conference and all PyTexas Foundation activities.
     <form role="form" action="//pytexas.us11.list-manage.com/subscribe/post?u=93d4ab771d0c2e4facc053add&amp;id=fa6aa40a2e" method="post" data-form-email novalidate>
     <div class="form-row">
         <input type="email" class="form-control" placeholder="Email Address" aria-label="Email Address" name="EMAIL" required style="border: 1px solid black; width: 200px; height: 45px;">
