@@ -18,7 +18,7 @@ held every year since 2007 (with a few exceptions), making this the 18th year.
 
 ## 2025 Prospectus
 
-[Download the Sponsorship Prospectus](https://drive.google.com/file/d/1q1txXEPwDC79wNBa8x7SkQsbnjviCfAj/view?usp=sharing){: .md-button .email-button--primary}
+Check back later for the 2025 prospectus, or email [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be added to our sponsor mailing list.
 
 ## Notable Changes in our Prospectus
 
