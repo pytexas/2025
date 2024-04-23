@@ -52,7 +52,7 @@ Join us for the largest gathering of Python developers within the great state of
     Get the latest news about the PyTexas Conference and all PyTexas Foundation activities.
     <form role="form" action="//pytexas.us11.list-manage.com/subscribe/post?u=93d4ab771d0c2e4facc053add&amp;id=fa6aa40a2e" method="post" data-form-email novalidate>
     <div class="form-row">
-        <input type="email" class="form-control" placeholder="Email Address" aria-label="Email Address" name="EMAIL" required style="border: 1px solid black; width: 0px; height: 45px;">
+        <input type="email" class="form-control" placeholder="Email Address" aria-label="Email Address" name="EMAIL" required style="border: 1px solid black; width: 200px; height: 45px;">
         <button type="submit" class="md-button email-button--primary " data-loading-text="Sending">Subscribe</button>
     </div>
 </form>
