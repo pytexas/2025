@@ -31,7 +31,7 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    Our Call for Proposals (CFP) <!--(https://pretalx.com/pytexas-25/)--> will be opening October 1, 24. Check back later to apply.
+    Our Call for Proposals (CFP) <!--(https://pretalx.com/pytexas-2025/)--> will be opening October 1, 2024. Check back later to apply.
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 
