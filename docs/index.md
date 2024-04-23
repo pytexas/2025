@@ -1,7 +1,7 @@
 ---
 title: 2025 PyTexas Conference
 template: home.html
-description: The PyTexas 2025 Conference will be April 19 - 21, 2025 in Austin, Texas. Get your ticket today! We hope to see y'all there!
+description: The PyTexas 2025 Conference will be April 11 - 13, 2025 in Austin, Texas. Get your ticket today! We hope to see y'all there!
 ---
 
 # Deep in the 💛 of Texas
@@ -31,7 +31,7 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    Our Call for Proposals (CFP) <!--(https://pretalx.com/pytexas-2025/)--> will be opening October 1, 2024. Check back later to apply.
+    Our Call for Proposals (CFP) <!--(https://pretalx.com/pytexas-25/)--> will be opening October 1, 24. Check back later to apply.
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 
@@ -52,7 +52,7 @@ Join us for the largest gathering of Python developers within the great state of
     Get the latest news about the PyTexas Conference and all PyTexas Foundation activities.
     <form role="form" action="//pytexas.us11.list-manage.com/subscribe/post?u=93d4ab771d0c2e4facc053add&amp;id=fa6aa40a2e" method="post" data-form-email novalidate>
     <div class="form-row">
-        <input type="email" class="form-control" placeholder="Email Address" aria-label="Email Address" name="EMAIL" required style="border: 1px solid black; width: 200px; height: 45px;">
+        <input type="email" class="form-control" placeholder="Email Address" aria-label="Email Address" name="EMAIL" required style="border: 1px solid black; width: 0px; height: 45px;">
         <button type="submit" class="md-button email-button--primary " data-loading-text="Sending">Subscribe</button>
     </div>
 </form>
