@@ -21,7 +21,7 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    Early bird tickets will go on sale in October 2024.
+    Early bird tickets will go on sale in November 2024.
 
 <!--    Early bird tickets for PyTexas 2025 are now on sale!
 

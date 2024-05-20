@@ -47,7 +47,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about.md
-  - Attend: attend.md
+  - Attend: 
+      - In Person Attendance: attend/in-person.md
+      - Virtual Attendance: attend/virtual.md
   - Sponsors:
     - sponsors/sponsor-us.md
   - Speaking:
@@ -59,7 +61,9 @@ plugins:
       cards_layout_options:
         background_color: "#DAD5B9"
         color: "#4833C8"
-        
+  - redirects:
+      redirect_maps:
+        'slido.md': 'https://slido.com'
 extra:
   generator: false
   social:

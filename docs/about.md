@@ -133,7 +133,7 @@ stored on our servers.
 
 #### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web
 browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and
 remember certain information
 

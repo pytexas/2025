@@ -10,9 +10,22 @@ description: Common questions we get asked about the conference.
     PyTexas offers a limited number of opportunity grants for community members that would be otherwise unable to
     attend: [see here for more details](about#grants).
 
+???+ question "If I purchase an in-person ticket, can I access the virtual event?"
+
+    Yes! If you can only attend a portion of the conference in person, you can
+    still participate in the rest of the conference virtually. Follow the instructions
+    on the [virtual attendance](/2025/attend/virtual) for instructions to do this.   
+
 ???+ question "Can I get a discount for volunteering or speaking?"
 
     Accepted speakers will get a free ticket to the event. 
+
+???+ question "What is your refund policy?"
+
+    In the event of cancellation prior to 7 days before the conference, registration 
+    fees will be fully refunded. After this time period, we will refund 50% of the
+    registration price. For any pre-order items (e.g. t-shirts), orders 
+    will be refunded if cancellation happens before the production order is made.
 
 ???+ question "How much of my sponsorship or ticket price goes to the conference?"
 
@@ -49,9 +62,3 @@ description: Common questions we get asked about the conference.
     PyTexas will be tax-deductible (we aren’t tax attorneys and just don’t know), you can rest
     assured that any contributions to the organization will always be used to further the common
     goals of the Texas Python community, and never for personal benefit.
-
-???+ question "What is your refund policy?"
-
-    In the event of cancellation, registration fees will be fully refunded. For any
-    pre-order items (e.g. t-shirts), orders will be refunded if cancellation happens before
-    the order is made, otherwise items will be shipped.
