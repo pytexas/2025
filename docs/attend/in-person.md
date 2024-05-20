@@ -1,6 +1,6 @@
 ---
 title: In-Person Attendance
-description: Tickets for PyTexas are available! Get yours today!
+description: Early Bird tickets go on sale November 1, 2024
 ---
 
 # Attend PyTexas

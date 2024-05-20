@@ -1,6 +1,6 @@
 ---
 title: Sponsor Us
-description: Looking to get your company in front of 200+ Python Developers? Sponsor us today!
+description: Looking to get your company in front of the PyTexas community? Sponsor us today!
 ---
 # Sponsor Us
 
