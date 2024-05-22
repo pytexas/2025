@@ -11,7 +11,7 @@ The virtual conference portion will be held in the [PyTexas Discord Server](http
 ## Gaining Access to the Correct Channels
 
 1. Join the [PyTexas Discord Server](https://discord.gg/jNPAbcNukj)
-1. Check-In and receive the `Conference 2024 Attendees` role
+1. Check-In and receive the `Conference 2025 Attendees` role
     1. In _any_ text channel you can type the command: `/register EMAIL_ADDRESS`
     where `EMAIL_ADDRESS` is the email address that was used to register your ticket.
         1. When you type the command you should see a prompt for your `attendee_email` like this:
