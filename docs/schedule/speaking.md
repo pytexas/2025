@@ -7,15 +7,17 @@ description: Our CFP opens October 1, 2024 and closes January 14, 2025
 PyTexas is a single-track conference with a total attendence of ~250 people.
 
 ## Call for proposals
-The PyTexas call for proposals is open. [Submit your talk now](https://pretalx.com/pytexas-2025/):
 
 * The Call For Proposals (CFP) opens **October 1, 2024**
 * The Call For Proposals (CFP) closes on **January 14, 2025 at 11:59pm CST**
 
-[Submit to our CFP](https://pretalx.com/pytexas-2025/){ .md-button .email-button--primary}
-
 ## Talks
 Talks must be 25 minutes long, including any optional Q&A.
+
+PyTexas does Q&A a little different. All questions, both for in-person and
+virtual attendees, are submitted via [slido](https://slido.com). Users submit
+questions via a browser, allowing others to see and upvote their favorite questions.
+Questions are moderated by our team and asked on stage by our emcees. 
 
 If you have an idea for a presentation that doesn’t fit the above guidelines, please submit it anyway. If it’s interesting enough, we’ll arrange our program around it.
 

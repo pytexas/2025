@@ -1,6 +1,6 @@
 ---
 title: Tutorials
-description: Tutorials will be held April 11, 2025. Topics include intermediate Python and testing with pytest.
+description: Tutorials will be held April 11, 2025. 
 ---
 # Tutorials
 
