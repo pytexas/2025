@@ -6,8 +6,10 @@ cairocffi==1.7.1
     # via cairosvg
 cairosvg==2.7.1
     # via mkdocs-material
-certifi==2023.7.22
-    # via requests
+certifi==2024.7.4
+    # via
+    #   -c constraints.txt
+    #   requests
 cffi==1.16.0
     # via cairocffi
 charset-normalizer==3.3.0
@@ -15,10 +17,7 @@ charset-normalizer==3.3.0
 click==8.1.7
     # via mkdocs
 colorama==0.4.6
-    # via
-    #   click
-    #   mkdocs
-    #   mkdocs-material
+    # via mkdocs-material
 cssselect2==0.7.0
     # via cairosvg
 defusedxml==0.7.1
