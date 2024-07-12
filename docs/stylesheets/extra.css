@@ -23,6 +23,8 @@
     --md-accent-fg-color--transparent: var(--dark-yellow);
     --md-accent-a-color: var(--dark-yellow);
     --md-accent-bg-color: var(--dark-yellow);
+    --md-table-head-color: var(--dark-yellow);
+    --md-table-head-font: var(--primary-background-color);
 }
 
 [data-md-color-scheme="pytx2025"] {
@@ -50,6 +52,8 @@
     --md-accent-fg-color--transparent: var(--dark-yellow);
     --md-accent-a-color: var(--light-blue);
     --md-accent-bg-color: #2b2b2b;
+    --md-table-head-color: var(--dark-yellow);
+    --md-table-head-font: var(--background-color);
 }
 
 [data-md-color-scheme="pytx2025_light"] div[class~="hide-if-light"] {
@@ -124,13 +128,27 @@ figcaption > a:hover,a:focus {
 
 
 .md-typeset table:not([class]) {
-    background-color: var(--md-default-fg-color);
+    background-color: var(--md-primary-fg-color);
     width: 100%;
 }
 
 thead {
-    background-color: var(--md-default-fg-color--dark);
-    color: var(--md-accent-bg-color);
+    background-color: var(--md-table-head-color);
+    color: var(--md-table-head-font);
+    font-size: 1.15em;
+}
+
+.md-typeset details.question {
+    border-color: var(--md-accent-a-color);
+}
+
+.md-typeset .question > summary::before,
+.md-typeset .question > summary::after {
+    background-color: var(--md-accent-a-color);
+}
+
+.md-typeset .question > summary {
+    background-color: var(--md-typeset-a-color);
 }
 
 .pytx-container {
@@ -198,6 +216,14 @@ thead {
     background-color: var(--md-primary-bg-color);
     border-color: var(--md-accent-fg-color);
     color: var(--md-primary-fg-color);
+}
+
+.pytx-prospectus-graph {
+    width: 49%;
+}
+
+.pytx-prospectus-graph-lg {
+    width: 80%;
 }
 
 .glow {
