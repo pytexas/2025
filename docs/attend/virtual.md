@@ -54,7 +54,7 @@ section that should be used for conference related discussions. There is also
 a `#random` channel for you to use to discuss anything and everything (so long as
 it is within our code of conduct.)
 
-**Please keep all discussions appropriate and in accordance with our [Code of Conduct](about/#code-of-conduct)**
+**Please keep all discussions appropriate and in accordance with our [Code of Conduct](../about.md#code-of-conduct)**
 
 ## Asking the Speaker Questions
 

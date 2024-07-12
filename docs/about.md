@@ -86,7 +86,7 @@ Here are some ways you can help us build a more diverse conference experience:
   to [PyTexas organizers](mailto:conference@pytexas.org))
 - We value diversity in the communities we bring together, and we welcome your contributions to bringing balanced
   representation of the richness of our collective human experience. Help us do this by following
-  our [code of conduct](/about/code-of-conduct).
+  our [code of conduct](about.md#code-of-conduct).
 
 Credit for the original version of this document goes
 to [O'Reilly Media](http://assets.en.oreilly.com/1/eventprovider/1/ConfDiversity.pdf)

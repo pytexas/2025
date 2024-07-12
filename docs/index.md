@@ -37,13 +37,13 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    Review our [Code of Conduct](about/#code-of-conduct).
+    Review our [Code of Conduct](about.md#code-of-conduct).
 
 -   :fontawesome-solid-building:{ .lg .middle} __Venue__
 
     ---
 
-    We will be returning to the [Austin Central Library](attend/#venue).
+    We will be returning to the [Austin Central Library](attend/in-person.md#venue).
 
 -   :fontawesome-regular-envelope:{ .lg .middle} __Join Our Mailing List__
 

@@ -8,13 +8,13 @@ description: Common questions we get asked about the conference.
 ???+ question "What can I do if I can't afford to attend?"
 
     PyTexas offers a limited number of opportunity grants for community members that would be otherwise unable to
-    attend: [see here for more details](about#grants).
+    attend: [see here for more details](attend/in-person.md#grants).
 
 ???+ question "If I purchase an in-person ticket, can I access the virtual event?"
 
     Yes! If you can only attend a portion of the conference in person, you can
     still participate in the rest of the conference virtually. Follow the instructions
-    on the [virtual attendance](/2025/attend/virtual) for instructions to do this.   
+    on the [virtual attendance](attend/virtual.md) for instructions to do this.   
 
 ???+ question "Can I get a discount for volunteering or speaking?"
 
