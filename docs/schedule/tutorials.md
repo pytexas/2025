@@ -2,7 +2,7 @@
 title: Tutorials
 description: Tutorials will be held April 11, 2025. 
 ---
-# Tutorials
+<!-- # Tutorials
 
 ## Schedule
 
@@ -73,3 +73,4 @@ functions and classes.
 ![Andy Knight Avatar](https://github.com/AndyLPK247.png){: style="height:150px;width:150px" align=left}
 
 Andrew Knight, also known as “Pandy,” is the Automation Panda. He’s a software quality champion who loves to help people build better quality software. Currently, he works as the Principal Software Architect at Cycle Labs, focusing on test automation excellence for supply chains and warehouse management. An avid supporter of open source software, Pandy is a Playwright Ambassador as well as the lead developer for Boa Constrictor, the .NET Screenplay Pattern. On the side, he is writing a book on software testing with Manning Publications. Apart from software, Pandy works on vintage Volkswagens. Check out his tech blog at AutomationPanda.com, and follow him on Twitter at @AutomationPanda.
+-->
