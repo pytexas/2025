@@ -7,7 +7,7 @@ description: Early Bird tickets go on sale November 1, 2024
 
 ## Buy Tickets
 
-Early Bird Tickets will go on sale November 1, 2025
+Early Bird Tickets will go on sale November 1, 2024.
 
 ## Venue
 
