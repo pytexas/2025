@@ -9,7 +9,6 @@ PyTexas is a single-track conference with a total attendence of ~250 people.
 ## Call for proposals
 
 * The Call For Proposals (CFP) opens **October 1, 2024**
-* The Call For Proposals (CFP) closes on **January 14, 2025 at 11:59pm CST**
 
 ## Talks
 Talks must be 25 minutes long, including any optional Q&A.
@@ -20,11 +19,6 @@ questions via a browser, allowing others to see and upvote their favorite questi
 Questions are moderated by our team and asked on stage by our emcees. 
 
 If you have an idea for a presentation that doesn’t fit the above guidelines, please submit it anyway. If it’s interesting enough, we’ll arrange our program around it.
-
-## Tutorials
-Tutorials are 2.5 - 3 hours long and take place the Friday before the main conference.
-
-We have 2 tutorial slots open. We will expect a detailed outline about the content being taught and learning objectives for each tutorial submission. 
 
 ## Who should submit a proposal?
 Everyone! We want all kinds of proposals from people of all experience levels. Whether you’ve never given a talk at a conference, or have given dozens. Whether you just discovered Python, or are an old hand. Whether you’re a programmer, designer, scientist, or music theorist (or whatever). We want to hear what you have to share!
