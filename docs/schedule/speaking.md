@@ -9,6 +9,7 @@ PyTexas is a single-track conference with a total attendence of ~250 people.
 ## Call for proposals
 
 * The Call For Proposals (CFP) opens **October 1, 2024**
+* The Call for Proposals (CFP) closes **December 1, 2024**
 
 ## Talks
 Talks must be 25 minutes long, including any optional Q&A.
