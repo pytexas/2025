@@ -1,6 +1,6 @@
 ---
 title: Speaking at PyTexas
-description: Our CFP opens October 1, 2024 and closes January 14, 2025
+description: Our CFP opens October 1, 2024 and closes December 1, 2024
 ---
 
 ## Conference format
