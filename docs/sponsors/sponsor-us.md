@@ -10,20 +10,21 @@ Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be adde
 
 ## 2025 Prospectus
 
-| | Platinum | Gold | Silver | Bronze | Lanyard | Food/Coffee | Happy Hour |
-| -- | :--: |  :--: |  :--: |  :--: |  :--: |  :--: |  :--: |
-| Number available | 2 | 5 | 5 | 15 | 2 | 2 | 6 | 4 |
-| Cost (USD) | 9000 | 5000 | 3000 | 1000 | 2000 | 4000 | 4000 |
-| Tickets included | 4 | 2 | 1 | 1 | 2 | 2 | 2 |
-| Pitch | 2 min | 2 min | 1 min | 1 min | 2 min | 2 min | 2 min |
+| | Platinum | Gold | Silver | Bronze | Lanyard | Live Captioning | Food/Coffee | Happy Hour |
+| -- | :--: |  :--: |  :--: |  :--: |  :--: |  :--: |  :--: | :--: |
+| Number available | 2 | 5 | 5 | 15 | 2 | 2 | 2 | 6 | 4 |
+| Cost (USD) | 9000 | 5000 | 3000 | 1000 | 2000 | 2000 | 4000 | 4000 |
+| Tickets included | 4 | 2 | 1 | 1 | 2 | 2 | 2 | 2 |
+| Pitch | 2 min | 2 min | 1 min | 1 min | 2 min | 2 min | 2 min | 2 min |
 | Table | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | :fontawesome-solid-check: [^1] |
 | Sponsored talk<br/>Slot before lunch, 20 minutes | :fontawesome-solid-check: [^2] ||||||||
 | Logo on lanyard | |||| :fontawesome-solid-check: ||
-| Logo at breakfast, lunch,<br/>snacks, and beverages | ||||| :fontawesome-solid-check: ||
-| Logo on website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Logo on opening and<br/>closing slides | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Social media callout | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
-| Shared swag table<br/>for stickers and other swag<br/>UNSTAFFED | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Logo on PyTexas videos and live stream | ||||| :fontawesome-solid-check: ||
+| Logo at breakfast, lunch,<br/>snacks, and beverages | |||| :fontawesome-solid-check: ||
+| Logo on website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Logo on opening and<br/>closing slides | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Social media callout | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
+| Shared swag table<br/>for stickers and other swag<br/>UNSTAFFED | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
 
 ///Footnotes Go Here/// <!-- NOTE: This is how the markdown processor knows where to put the footnotes. Keep it at the end of the table. -->
 
