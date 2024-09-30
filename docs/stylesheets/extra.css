@@ -64,11 +64,11 @@
     display: none;
 }
 
-[data-md-color-scheme="pytx2025_light"] div[class~="hide-if-dark"] > svg {
+[data-md-color-scheme="pytx2025_light"] div[class~="hide-if-dark"]>svg {
     max-height: 24rem;
 }
 
-[data-md-color-scheme="pytx2025"] div[class~="hide-if-light"] > svg {
+[data-md-color-scheme="pytx2025"] div[class~="hide-if-light"]>svg {
     max-height: 24rem;
 }
 
@@ -81,12 +81,13 @@ figcaption {
     padding: 1rem;
 }
 
-figcaption > a {
-    color:var(--md-accent-fg-color);
+figcaption>a {
+    color: var(--md-accent-fg-color);
 }
 
-figcaption > a:hover,a:focus {
-    color:var(--md-accent-a-color);
+figcaption>a:hover,
+a:focus {
+    color: var(--md-accent-a-color);
 }
 
 .md-container {
@@ -142,12 +143,12 @@ thead {
     border-color: var(--md-accent-a-color);
 }
 
-.md-typeset .question > summary::before,
-.md-typeset .question > summary::after {
+.md-typeset .question>summary::before,
+.md-typeset .question>summary::after {
     background-color: var(--md-accent-a-color);
 }
 
-.md-typeset .question > summary {
+.md-typeset .question>summary {
     background-color: var(--md-typeset-a-color);
 }
 
@@ -195,27 +196,13 @@ thead {
 
 .pytx-button--primary {
     background-color: var(--md-primary-fg-color--dark);
-    color: var(--md-primary-bg-color);
+    color: var(--md-primary-bg-color) !important;
 }
-
 
 .pytx-button:focus,
 .pytx-button:hover {
     background-color: var(--md-primary-fg-color--light);
     color: var(--md-primary-bg-color);
-}
-
-.email-button--primary {
-    background-color: var(--md-primary-fg-color--dark);
-    border-color: var(--md-primary-fg-color--light);
-    color: var(--md-primary-bg-color);
-}
-
-.email-button:focus,
-.email-button:hover {
-    background-color: var(--md-primary-bg-color);
-    border-color: var(--md-accent-fg-color);
-    color: var(--md-primary-fg-color);
 }
 
 .pytx-prospectus-graph {
@@ -227,15 +214,24 @@ thead {
 }
 
 .glow {
-  animation: glow 1s ease alternate infinite;
+    animation: glow 1s ease alternate infinite;
 }
 
 @keyframes glow {
-  from {
-    filter: drop-shadow(0px 4px 4px #FFFFFF);
-  }
+    from {
+        filter: drop-shadow(0px 4px 4px #FFFFFF);
+    }
 
-  to {
-    filter: drop-shadow(0px 6px 10px #FFDD67);
-  }
+    to {
+        filter: drop-shadow(0px 6px 10px #FFDD67);
+    }
+}
+
+.md-search-result__meta {
+    background-color: var(--primary-background-color) !important;
+    color: var(--md-default-fg-color--light);
+}
+
+.md-search-result {
+    background-color: var(--primary-background-color) !important;
 }
