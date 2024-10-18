@@ -16,7 +16,7 @@ Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be adde
 | Cost (USD) | 9000 | 5000 | 3000 | 1000 | 2000 | 2000 | 4000 | 4000 |
 | Tickets included | 4 | 2 | 1 | 1 | 2 | 2 | 2 | 2 |
 | Pitch | 2 min | 2 min | 1 min | 1 min | 2 min | 2 min | 2 min | 2 min |
-| Table | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | :fontawesome-solid-check: [^1] |
+| Table | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | | :fontawesome-solid-check: [^1] |
 | Sponsored talk<br/>Slot before lunch, 20 minutes | :fontawesome-solid-check: [^2] ||||||||
 | Logo on lanyard | |||| :fontawesome-solid-check: ||
 | Logo on PyTexas videos and live stream | ||||| :fontawesome-solid-check: ||
