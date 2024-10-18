@@ -31,6 +31,20 @@ Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be adde
 [^1]: At happy hour
 [^2]: Date selection is first come, first serve. Talk is subject to approval. All talks go through the talk review process to ensure that PyTexas remains a high quality conference. Sponsored talks should be the same kind of talks that you would submit through our normal call for proposals. Sales pitches, advertisements, and talks that are not relevant to the Python community will be rejected. **Note that we reserve the right to reject a talk if we think it could jeopardize our 501(c)3 status.**
 
+### Lead Gathering
+
+The PyTexas Conference does not currently offer lead scanning as part of our sponsorship packages.
+However, we have had many sponsors successfully gather leads through other means throughout the conference.
+
+We've seen the following lead scanning techniques uses to great success by our sponsors in the past:
+
+1. Perform a raffle for a big ticket item at the end of the conference and have attendees fill out a form to enter
+    1. Some items we've seen have been AirPods Max, Beats, small tablets, large Lego sets
+1. Require filling out a web form (Google, SurveyMonkey, etc) to receive a larger or more expensive piece of swag
+1. Have links to their company's communities/newsletters as scannable QR codes for attendees to scan
+
+If you choose to do a raffle, we will provide you time (1 - 2 min) on the main stage to perform your raffle and take photos.
+
 ## About the PyTexas Conference
 
 The PyTexas Conference is a regional Python-focused conference held annually in the spring every year since 2007 (with a few exceptions). It is the oldest regional Python conference in North America, and possibly the world. Typically, we draw famous Python speakers as well as regional and local Python experts to teach attendees about Python and related technologies.
