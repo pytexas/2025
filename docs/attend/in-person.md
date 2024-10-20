@@ -141,4 +141,4 @@ application below. Applications will be approved by Feb. 20<sup>th</sup> 2025.
 **Grant applications from participants from Texas and surround areas will be 
 prioritized first.**
 
-[Apply for a Grant](https://forms.gle/7wHB4p5abyxHqwwF7){: .md-button .email-button--primary}
+[Apply for a Grant](https://forms.gle/7wHB4p5abyxHqwwF7){: .pytx-button .pytx-button--primary}

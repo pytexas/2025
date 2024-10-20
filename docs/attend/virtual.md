@@ -62,4 +62,4 @@ This year we will be using [Slido](https://pytexas.org/2025/slido)
 to ask the speaker questions. Slido allows you to submit your question and up-vote
 other questions you'd like to hear the answer to. 
 
-[Join the Slido](https://pytexas.org/2025/slido){: .md-button .email-button--primary}
+[Join the Slido](https://pytexas.org/2025/slido){: .pytx-button .pytx-button--primary}
