@@ -29,7 +29,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-copyright: 'PyTexas Foundation © 2014 - 2025'
+copyright: "PyTexas Foundation © 2014 - 2025"
 markdown_extensions:
   - abbr
   - admonition
@@ -47,13 +47,15 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about.md
-  - Attend: 
+  - Attend:
       - In Person Attendance: attend/in-person.md
       - Virtual Attendance: attend/virtual.md
   - Sponsors:
-    - sponsors/sponsor-us.md
+      - sponsors/sponsor-us.md
   - Speaking:
-    - Speaking at PyTexas: schedule/speaking.md
+      - Speaking at PyTexas: schedule/speaking.md
+  - Schedule:
+      - Keynotes: schedule/keynotes.md
   - FAQ: faq.md
 plugins:
   - search
@@ -63,7 +65,7 @@ plugins:
         color: "#FCE004"
   - redirects:
       redirect_maps:
-        'slido.md': 'https://slido.com'
+        "slido.md": "https://slido.com"
 extra:
   generator: false
   social:
