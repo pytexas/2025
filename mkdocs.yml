@@ -51,6 +51,7 @@ nav:
       - In Person Attendance: attend/in-person.md
       - Virtual Attendance: attend/virtual.md
   - Sponsors:
+      - sponsors/our-sponsors.md
       - sponsors/sponsor-us.md
   - Speaking:
       - Speaking at PyTexas: schedule/speaking.md

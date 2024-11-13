@@ -149,7 +149,7 @@ thead {
 }
 
 .md-typeset .question>summary {
-    background-color: var(--md-typeset-a-color);
+    background-color: var(--logo-yellow);
 }
 
 .pytx-container {

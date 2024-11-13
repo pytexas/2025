@@ -1,13 +1,13 @@
 ---
 title: In-Person Attendance
-description: Early Bird tickets go on sale November 1, 2024
+description: Get your ticket today!
 ---
 
 # Attend PyTexas
 
 ## Buy Tickets
 
-Early Bird Tickets will go on sale November 1, 2024.
+[Purchase PyTexas 2025 Tickets](https://pretix.eu/pytexas/2025/){: .md-button .pytx-button--primary}
 
 ## Venue
 
