@@ -21,11 +21,9 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    Early bird tickets will go on sale in November 2024.
+    Early bird tickets for PyTexas 2025 are now on sale! Get yours while they last!
 
-<!--    Early bird tickets for PyTexas 2025 are now on sale!
-
-    [:octicons-arrow-right-24: Purchase Tickets](https://pretix.eu/pytexas/2025/) -->
+    [:octicons-arrow-right-24: Purchase Tickets](https://pretix.eu/pytexas/2025/)
 
 -   :fontawesome-solid-microphone-lines:{ .lg .middle} __Speak__
 
