@@ -16,6 +16,11 @@ Add your name to this list!
 
 ## Community Sponsors
 
-[![DevIT US Sponsor Logo](../assets/images/sponsors/devitus-square2.png){: width="150" align="left"}](https://devitjobs.com/jobs/python/all/all)
-
 [![Black Python Devs](../assets/images/sponsors/black_python_devs.svg){: width="150" align="left"}](https://blackpythondevs.github.io/)
+
+<br clear=all>
+
+## Media Sponsors
+
+[![DevIT US Sponsor Logo](../assets/images/sponsors/devitus-square2.png){: width="150" align="left"}](https://devitjobs.com/jobs/python/all/all)
+[![Big Event Sponsor Logo](../assets/images/sponsors/big-event.png){: width="350" align="left"}](https://bigevent.io/)
