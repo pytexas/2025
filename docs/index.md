@@ -29,7 +29,7 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    Our Call for Proposals (CFP) is open! Get your proposal in by December 1.
+    Our Call for Proposals (CFP) is open! Get your proposal in by December 4.
 
     [:octicons-arrow-right-24: Submit to the CFP](https://pretalx.com/pytexas-2025/)  
 
