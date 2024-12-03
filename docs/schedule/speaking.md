@@ -1,6 +1,6 @@
 ---
 title: Speaking at PyTexas
-description: Our CFP opens October 1, 2024 and closes December 1, 2024
+description: Our CFP opens October 1, 2024 and closes December 4, 2024
 ---
 
 ## Conference format
@@ -9,7 +9,7 @@ PyTexas is a single-track conference with a total attendence of ~250 people.
 ## Call for proposals
 
 * The Call For Proposals (CFP) opens **October 1, 2024**
-* The Call for Proposals (CFP) closes **December 1, 2024**
+* The Call for Proposals (CFP) closes **December 4, 2024**
 
 [Submit to our CFP](https://pretalx.com/pytexas-2025/){ .pytx-button .pytx-button--primary}
 
