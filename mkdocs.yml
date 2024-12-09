@@ -57,6 +57,7 @@ nav:
       - Speaking at PyTexas: schedule/speaking.md
   - Schedule:
       - Keynotes: schedule/keynotes.md
+      - Tutorials: schedule/tutorials.md
   - FAQ: faq.md
 plugins:
   - search

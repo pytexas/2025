@@ -1,76 +1,47 @@
 ---
 title: Tutorials
-description: Tutorials will be held April 11, 2025. 
+description: Tutorials will be held April 11, 2025.
 ---
-<!-- # Tutorials
 
 ## Schedule
 
-| Time | Tutorial | Instructor |
-| :---:| :------: | :--------: |
-| 09:00am - 12:00pm | TBD | TBD |
-| 02:00pm - 05:00pm | TBD | TBD |
+|       Time        | Tutorial | Instructor |
+| :---------------: | :------: | :--------: |
+| 09:00am - 12:00pm |   TBD    |    TBD     |
+| 02:00pm - 05:00pm |   TBD    |    TBD     |
 
 ## Tutorials
 
-### Python 102: Beyond the Basics
+### The new wave of Python Packaging
 
-One of the benefits to Python is the ability to be productive while knowing a 
-small subset of the features the language has to offer. While this is one of Python's
-super powers, many Python developers are missing out on the full experience by not
-diving deeper into the wonderful features Python has to offer. 
+Python has become the #1 programming language on GitHub (ranked by number of individual contributors) in 2024. Such a popular language deserves the very best when it comes to the developer experience when shipping your code. While this hasn't historically been the case, we made huge steps towards this in 2024.
 
-In this tutorial, you will go beyond the basics of Python and explore various language
-features that make Python _pythonic_. Specifically, you will learn about:
+In this workshop, I will introduce you to the TL;DR ("too long, didn't read") version of how you should handle Python packaging in 2025. You will learn about the current best practices when it comes packaging either your favorite library or your fancy new web application. Note, this session will focus on using the PyPI ecosystem, not the Conda ecosystem (at least not today).
 
-1. Fist-class Functions
-1. Decorators
-1. Comprehensions
-1. Dunder Methods & Operator Overloading
-1. Context Managers
-1. Iterators
-1. Generators
+#### Presenter: Bernát Gábor
 
-This will be a hands on tutorial. All exercises will be distributed as a GitHub
-repository and as Jupyter Notebooks in Google Colab. 
+![Bernát Gábor Avatar](https://pretalx.com/media/avatars/EGPZKP_JRfRMlH.jpeg){: style="height:150px;width:150px" align=left}
 
-**Prerequisites**
+_Over the years, I have delivered 2 presentations + 1 workshop at PyCon US; 1 presentation at PyTexas, 4 presentations at EuroPython, 1 at PyCon UK, and two talk sat PyLondinium. My website (https://bernat.tech/presentations) contains links to the videos and slides for these presentations. I am also the author of the virtualenv/tox packages and a PyPA member._
 
-* A laptop you can program on
-* A functioning web browser or your favorite IDE/Text Editor setup, ready to run
-Python
-* Python 3.8 or newer
+<br><br>
 
-#### Presenter: Mason Egger
+### Python Tools in the Real World
 
-![Mason Egger Avatar](https://github.com/masonegger.png){: style="height:150px;width:150px" align=left}
+Learning Python’s syntax and features is just the beginning. When it’s time to build software that others can use, understanding Python’s rich ecosystem of tools becomes essential. This 3-hour hands-on tutorial introduces you to powerful tools that bridge the gap between writing code and developing real-world applications. You’ll gain practical experience with tools like venv, pypi, black, mypy, cookiecutter, and Python’s debugging and logging facilities.
+This is a hands-on tutorial with several mini projects to learn enough about these tools that you can continue to teach yourself later. We will cover:
 
-Mason is currently Sr. Technical Curriculum Developer at Temporal Technologies who specializes building community, developer-focused educational content, distributed systems, and Python. Prior to his work at Temporal he launched Developer Relations at Gretel.ai as the Lead Developer Advocate, and was a Developer Advocate at DigitalOcean specializing in Infrastructure-as-a-Service technologies. His engineering experience includes time as an SRE helping build and maintain a highly available hybrid multi-cloud PaaS. He's an avid programmer, speaker, educator, and writer/blogger. He is an organizer of PyTexas, President of the PyTexas Foundation, and actively contributes to open source projects. In his spare time, he enjoys reading, camping, kayaking, and exploring new places. You can find him on various [social media platforms](https://mason.dev/links).
+Virtual Environments: Learn how to create and manage isolated environments using venv and pyenv, and understand their critical role in application development.
+Package Management: Master pip for installing and managing dependencies from PyPI, evaluate third-party packages, and demystify Python’s packaging ecosystem.
+Project Templates with Cookiecutter: Discover how to streamline project setup and create your own reusable Python package templates.
+Static Code Analysis: Use Black and Ruff to format and lint your code, and seamlessly integrate these tools into your preferred editor.
+Type Checking with Mypy: Learn to add type hints and use mypy for early detection of runtime errors, enhancing code quality and reliability.
+Debugging and Logging: Dive into Python’s debugger and logging module, and see how to use them effectively in Visual Studio Code, Jupyter Notebooks, and the terminal.
+You'll leave this tutorial with concrete experience working with these tools, ready to apply them to your projects and continue your learning journey. And you'll also leave with a renewed excitement about the vast world that Python's ecosystem offers.
 
-### `def test_my_code_with_pytest():`
+#### Presenter: Al Sweigart
 
-Testing is such a vital way to make sure your code works – and to uncover any 
-bugs that might be there. Thankfully, testing doesn’t need to be difficult, even 
-if you haven’t done much testing or automation before. With a few foundational 
-principles and some Python code, you can start writing effective tests at unit, 
-integration, and end-to-end levels.
+![Al Sweigart Avatar](https://i.imgur.com/7vNlokH.png){: style="height:150px;width:150px" align=left}
 
-In this tutorial, we will learn how to automate tests with Python’s most popular 
-test framework, pytest. Specifically, we will cover:
+_Al Sweigart is a software developer, artist, Fellow of the Python Software Foundation, and the author of Automate the Boring Stuff with Python and other programming books freely available under the Creative Commons license at [https://inventwithpython.com](https://inventwithpython.com)._
 
-1. Configuring a Python project with pytest
-2. Writing unit tests for Python libraries
-3. Writing API tests with requests
-4. Writing UI tests with Playwright
-5. Leveraging features like fixtures, parameters, configs, and mocking
-
-Bring your laptops, because this will be a hands-on workshop! You don’t need to 
-be an expert programmer, but you should be familiar with Python syntax like 
-functions and classes.
-
-#### Presenter: Andrew Knight
-
-![Andy Knight Avatar](https://github.com/AndyLPK247.png){: style="height:150px;width:150px" align=left}
-
-Andrew Knight, also known as “Pandy,” is the Automation Panda. He’s a software quality champion who loves to help people build better quality software. Currently, he works as the Principal Software Architect at Cycle Labs, focusing on test automation excellence for supply chains and warehouse management. An avid supporter of open source software, Pandy is a Playwright Ambassador as well as the lead developer for Boa Constrictor, the .NET Screenplay Pattern. On the side, he is writing a book on software testing with Manning Publications. Apart from software, Pandy works on vintage Volkswagens. Check out his tech blog at AutomationPanda.com, and follow him on Twitter at @AutomationPanda.
--->
