@@ -7,10 +7,32 @@ description: Tutorials will be held April 11, 2025.
 
 |       Time        | Tutorial | Instructor |
 | :---------------: | :------: | :--------: |
-| 09:00am - 12:00pm |   TBD    |    TBD     |
-| 02:00pm - 05:00pm |   TBD    |    TBD     |
+| 09:00am - 12:00pm | [Python Tools in the Real World](#python-tools-in-the-real-world)  |    Al Sweigart
+| 02:00pm - 05:00pm | [The new wave of Python Packaging](#the-new-wave-of-python-packaging) | Bernát Gábor
 
 ## Tutorials
+
+### Python Tools in the Real World
+
+Learning Python’s syntax and features is just the beginning. When it’s time to build software that others can use, understanding Python’s rich ecosystem of tools becomes essential. This 3-hour hands-on tutorial introduces you to powerful tools that bridge the gap between writing code and developing real-world applications. You’ll gain practical experience with tools like venv, pypi, black, mypy, cookiecutter, and Python’s debugging and logging facilities.
+This is a hands-on tutorial with several mini projects to learn enough about these tools that you can continue to teach yourself later. We will cover:
+
+* **Virtual Environments**: Learn how to create and manage isolated environments using venv and pyenv, and understand their critical role in application development.
+* **Package Management**: Master pip for installing and managing dependencies from PyPI, evaluate third-party packages, and demystify Python’s packaging ecosystem.
+* **Project Templates with Cookiecutter**: Discover how to streamline project setup and create your own reusable Python package templates.
+* **Static Code Analysis**: Use Black and Ruff to format and lint your code, and seamlessly integrate these tools into your preferred editor.
+* **Type Checking with Mypy**: Learn to add type hints and use mypy for early detection of runtime errors, enhancing code quality and reliability.
+* **Debugging and Logging**: Dive into Python’s debugger and logging module, and see how to use them effectively in Visual Studio Code, Jupyter Notebooks, and the terminal.
+
+You'll leave this tutorial with concrete experience working with these tools, ready to apply them to your projects and continue your learning journey. And you'll also leave with a renewed excitement about the vast world that Python's ecosystem offers.
+
+#### Presenter: Al Sweigart
+
+![Al Sweigart Avatar](https://i.imgur.com/7vNlokH.png){: style="height:150px;width:150px" align=left}
+
+_Al Sweigart is a software developer, artist, Fellow of the Python Software Foundation, and the author of Automate the Boring Stuff with Python and other programming books freely available under the Creative Commons license at [https://inventwithpython.com](https://inventwithpython.com)._
+
+<br clear="all">
 
 ### The new wave of Python Packaging
 
@@ -24,24 +46,4 @@ In this workshop, I will introduce you to the TL;DR ("too long, didn't read") ve
 
 _Over the years, I have delivered 2 presentations + 1 workshop at PyCon US; 1 presentation at PyTexas, 4 presentations at EuroPython, 1 at PyCon UK, and two talk sat PyLondinium. My website (https://bernat.tech/presentations) contains links to the videos and slides for these presentations. I am also the author of the virtualenv/tox packages and a PyPA member._
 
-<br><br>
-
-### Python Tools in the Real World
-
-Learning Python’s syntax and features is just the beginning. When it’s time to build software that others can use, understanding Python’s rich ecosystem of tools becomes essential. This 3-hour hands-on tutorial introduces you to powerful tools that bridge the gap between writing code and developing real-world applications. You’ll gain practical experience with tools like venv, pypi, black, mypy, cookiecutter, and Python’s debugging and logging facilities.
-This is a hands-on tutorial with several mini projects to learn enough about these tools that you can continue to teach yourself later. We will cover:
-
-Virtual Environments: Learn how to create and manage isolated environments using venv and pyenv, and understand their critical role in application development.
-Package Management: Master pip for installing and managing dependencies from PyPI, evaluate third-party packages, and demystify Python’s packaging ecosystem.
-Project Templates with Cookiecutter: Discover how to streamline project setup and create your own reusable Python package templates.
-Static Code Analysis: Use Black and Ruff to format and lint your code, and seamlessly integrate these tools into your preferred editor.
-Type Checking with Mypy: Learn to add type hints and use mypy for early detection of runtime errors, enhancing code quality and reliability.
-Debugging and Logging: Dive into Python’s debugger and logging module, and see how to use them effectively in Visual Studio Code, Jupyter Notebooks, and the terminal.
-You'll leave this tutorial with concrete experience working with these tools, ready to apply them to your projects and continue your learning journey. And you'll also leave with a renewed excitement about the vast world that Python's ecosystem offers.
-
-#### Presenter: Al Sweigart
-
-![Al Sweigart Avatar](https://i.imgur.com/7vNlokH.png){: style="height:150px;width:150px" align=left}
-
-_Al Sweigart is a software developer, artist, Fellow of the Python Software Foundation, and the author of Automate the Boring Stuff with Python and other programming books freely available under the Creative Commons license at [https://inventwithpython.com](https://inventwithpython.com)._
 
