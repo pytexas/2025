@@ -44,6 +44,6 @@ In this workshop, I will introduce you to the TL;DR ("too long, didn't read") ve
 
 ![Bernát Gábor Avatar](https://pretalx.com/media/avatars/EGPZKP_JRfRMlH.jpeg){: style="height:150px;width:150px" align=left}
 
-_Over the years, I have delivered 2 presentations + 1 workshop at PyCon US; 1 presentation at PyTexas, 4 presentations at EuroPython, 1 at PyCon UK, and two talk sat PyLondinium. My website (https://bernat.tech/presentations) contains links to the videos and slides for these presentations. I am also the author of the virtualenv/tox packages and a PyPA member._
+_Bernát works at Bloomberg US - Los Angeles on the data ingestion pipelines quality control segment. He is a PSF Fellow and has authored numorous highly used Python packages. You can find a full list [here](https://bernat.tech/about/)_
 
 
