@@ -292,9 +292,8 @@ You'll learn strategies for:
 - Implementing effective monitoring and observability
 - Managing hardware constraints and system resources
 - Designing flexible configuration systems that work in the field
-- Whether you're a hobbyist looking to make your home automation more robust
-- or a professional developer designing industrial systems,
-- you'll walk away with concrete patterns and best practices to build more reliable embedded Python applications.
+
+  Whether you're a hobbyist looking to make your home automation more robust or a professional developer designing industrial systems, you'll walk away with concrete patterns and best practices to build more reliable embedded Python applications.
 
 **Speaker: Oliver Rew**
 
