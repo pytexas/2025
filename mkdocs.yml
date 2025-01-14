@@ -53,11 +53,10 @@ nav:
   - Sponsors:
       - sponsors/our-sponsors.md
       - sponsors/sponsor-us.md
-  - Speaking:
-      - Speaking at PyTexas: schedule/speaking.md
   - Schedule:
       - Keynotes: schedule/keynotes.md
       - Tutorials: schedule/tutorials.md
+      - Talks: schedule/talks.md
   - FAQ: faq.md
 plugins:
   - search
