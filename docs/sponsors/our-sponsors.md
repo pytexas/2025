@@ -11,6 +11,7 @@ Add your name to this list!
 ## Gold Sponsors
 
 [![Elastic Sponsor Logo](../assets/images/sponsors/elastic.svg){: width="250" align="left"}](https://www.elastic.co/)
+[![Temporal Sponsor Logo](../assets/images/sponsors/temporal.png){: width="550" align="left"}](https://www.temporal.io/)
 
 <br clear=all>
 
