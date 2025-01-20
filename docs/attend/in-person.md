@@ -136,7 +136,11 @@ Currently we have a limited budget and are evaluating what we can provide. Ticke
 grant, and we are aiming to have some cash to help reimburse travel/lodging.
 
 If you are facing a financial hardship, or would not be able to attend without assistance, please fill out the
-application below. Applications will be approved by Feb. 20<sup>th</sup> 2025.
+application below.
+**Important dates:**
+* Applications will close 1/31/2025
+* Applications will be approved 2/10/2025.
+* Notifications will be sent out the week of 2/10/2025
 
 **Grant applications from participants from Texas and surround areas will be 
 prioritized first.**
