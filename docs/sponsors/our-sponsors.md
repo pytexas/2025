@@ -10,8 +10,14 @@ Add your name to this list!
 
 ## Gold Sponsors
 
-[![Elastic Sponsor Logo](../assets/images/sponsors/elastic.svg){: width="250" align="left"}](https://www.elastic.co/)
-[![Temporal Sponsor Logo](../assets/images/sponsors/temporal.png){: width="550" align="left"}](https://www.temporal.io/)
+[![Elastic Sponsor Logo](../assets/images/sponsors/elastic.svg){: width="150" align="left"}](https://www.elastic.co/)
+[![Temporal Sponsor Logo](../assets/images/sponsors/temporal.png){: width="450" align="left"}](https://www.temporal.io/)
+
+<br clear=all>
+
+## Silver Sponsors
+
+[![Elastic Sponsor Logo](../assets/images/sponsors/cloudflare.png){: width="250" align="left"}](https://www.cloudflare.com/)
 
 <br clear=all>
 
@@ -28,4 +34,4 @@ Add your name to this list!
 [![Big Event Sponsor Logo](../assets/images/sponsors/big-event.png){: width="350" align="left"}](https://bigevent.io/)
 
 
-[![Pretix Sponsor Logo](../assets/images/sponsors/pretix.svg){: width="350" align="left"}](https://pretix.eu/)
+[![Pretix Sponsor Logo](../assets/images/sponsors/pretix.svg){: width="300" align="left"}](https://pretix.eu/)
