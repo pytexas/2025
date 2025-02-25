@@ -54,6 +54,7 @@ nav:
       - sponsors/our-sponsors.md
       - sponsors/sponsor-us.md
   - Schedule:
+      - Event Schedule: schedule/full_schedule.md
       - Keynotes: schedule/keynotes.md
       - Tutorials: schedule/tutorials.md
       - Talks: schedule/talks.md
