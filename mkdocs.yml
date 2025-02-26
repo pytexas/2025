@@ -68,6 +68,7 @@ plugins:
   - redirects:
       redirect_maps:
         "slido.md": "https://slido.com"
+        "schedule/full_schedule.md": "schedule/index.md"
 extra:
   generator: false
   social:
