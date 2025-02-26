@@ -3,9 +3,15 @@ Title: Full Schedule
 description: A full schedule grid for the event
 ---
 
-# Talk Schedule
+# Schedule
 
-_You can view the Tutorial schedule [here](../tutorials)_
+## Friday
+
+|       Time        | Tutorial | Instructor |
+| :--------------- | :------: | :--------: |
+| 09:00am - 12:00pm | [Python Tools in the Real World](../tutorials/#python-tools-in-the-real-world)  |    Al Sweigart
+| 12:00pm - 2:00pm | Lunch  |
+| 02:00pm - 05:00pm | [The new wave of Python Packaging](../tutorials/#the-new-wave-of-python-packaging) | Bernát Gábor
 
 ## Saturday
 
@@ -28,8 +34,9 @@ _You can view the Tutorial schedule [here](../tutorials)_
 | 04:20&nbsp;PM      |                                    [Typed and Decorated Python GUIs: Help the Language Help You](../talks/#typed-and-decorated-python-guis-help-the-language-help-you)<br/>George Collins                                     |
 | 04:50&nbsp;PM      |                                                 [Building a Test Framework From Scratch (Or Not)!](../talks/#building-a-test-framework-from-scratch-or-not)<br/>Pandy Knight                                                  |
 | 05:20&nbsp;PM      |                                                                                                        Lightning Talks                                                                                                        |
-| 05:45&nbsp;PM      |                                                                                                          After Party                                                                                                          |
-| 09:00&nbsp;PM      |                                                                                                       After Party Ends                                                                                                        |
+| 05:45&nbsp;PM      |                                                                                                          Walk to Networking Event                                                                                                      |
+| 06:00&nbsp;PM      |                                                                                                          Networking Event Starts                                                                                                    |
+| 09:00&nbsp;PM      |                                                                                                       Networking Event Ends                                                                                                        |
 
 ## Sunday
 
