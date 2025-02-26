@@ -10,9 +10,9 @@ Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be adde
 
 ## 2025 Prospectus
 
-| | Platinum | Gold | Silver | Bronze | Lanyard | Live Captioning | Food/Coffee | Happy Hour |
+| | Platinum | Gold | Silver | Bronze | Lanyard | Live Captioning | Food/Coffee | Networking Event |
 | -- | :--: |  :--: |  :--: |  :--: |  :--: |  :--: |  :--: | :--: |
-| Number available | 2 | 5 | 5 | 15 | 2 | 2 | 2 | 6 | 4 |
+| Number remaining | 1 | 3 | 4 | 15 | 1 | 2 | 1 | 6 |
 | Cost (USD) | 9000 | 5000 | 3000 | 1000 | 2000 | 2000 | 4000 | 4000 |
 | Tickets included | 4 | 2 | 1 | 1 | 2 | 2 | 2 | 2 |
 | Pitch | 2 min | 2 min | 1 min | 1 min | 2 min | 2 min | 2 min | 2 min |
@@ -28,7 +28,7 @@ Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be adde
 
 ///Footnotes Go Here/// <!-- NOTE: This is how the markdown processor knows where to put the footnotes. Keep it at the end of the table. -->
 
-[^1]: At happy hour
+[^1]: At network event
 [^2]: Date selection is first come, first serve. Talk is subject to approval. All talks go through the talk review process to ensure that PyTexas remains a high quality conference. Sponsored talks should be the same kind of talks that you would submit through our normal call for proposals. Sales pitches, advertisements, and talks that are not relevant to the Python community will be rejected. **Note that we reserve the right to reject a talk if we think it could jeopardize our 501(c)3 status.**
 
 ### Lead Gathering
