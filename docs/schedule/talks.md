@@ -359,3 +359,15 @@ with a focus on performance, avoiding side effects, and writing maintainable cod
 _I'm Sameer Shukla, a dedicated engineer with a rich background spanning 15 years in software design and development. Beyond my role as an engineer, I am an author and researcher. I find joy in continually learning and sharing insights about cutting-edge tools and technologies through my contributions to diverse online learning platforms and esteemed international journals._
 
 <br clear=all>
+
+## Generators: The Unsung Hero of Async Programming
+
+Async is often about tackling IO-bound, high concurrency work, but it can also be about long running, interruptible work. While we frequently think about generators in the context of iterators, generators are a great fit in any scenario where the function needs to be interruptible and resumable. In this talk, we’ll take a fresh look at generators and look at how we used them to build a durable orchestration framework.
+
+**Speaker: Chris Anderson**
+
+![Chris Anderson Headshot](../assets/images/placeholder.png){: width="150" align=left}
+
+_Chris Anderson is a Principal Product Manager for Azure Cosmos DB at Microsoft._
+
+<br clear=all>
