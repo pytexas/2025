@@ -12,7 +12,7 @@ Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be adde
 
 | | Platinum | Gold | Silver | Bronze | Lanyard | Live Captioning | Food/Coffee | Networking Event |
 | -- | :--: |  :--: |  :--: |  :--: |  :--: |  :--: |  :--: | :--: |
-| Number remaining | 1 | 3 | 4 | 15 | 1 | 2 | 1 | 6 |
+| Number remaining | 1 | 3 | 4 | 15 | SOLD OUT | 1 | 1 | 6 |
 | Cost (USD) | 9000 | 5000 | 3000 | 1000 | 2000 | 2000 | 4000 | 4000 |
 | Tickets included | 4 | 2 | 1 | 1 | 2 | 2 | 2 | 2 |
 | Pitch | 2 min | 2 min | 1 min | 1 min | 2 min | 2 min | 2 min | 2 min |
