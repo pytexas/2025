@@ -235,3 +235,7 @@ thead {
 .md-search-result {
     background-color: var(--primary-background-color) !important;
 }
+
+.sponsor {
+    background-color: white;
+}
