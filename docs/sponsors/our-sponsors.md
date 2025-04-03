@@ -34,6 +34,13 @@ Add your name to this list!
 
 <br clear=all>
 
+## Live Captioning Sponsors
+
+[![Caktus Group Logo](../assets/images/sponsors/caktus.png){: width="200" align="left" .sponsor}](https://www.caktusgroup.com/)
+
+<br clear=all>
+
+
 ## Lanyard Sponsors
 
 [![Bloomberg Engineering Logo](../assets/images/sponsors/bloomberg.png){: width="150" align="left" .sponsor}](https://www.bloomberg.com/company/values/tech-at-bloomberg/)
