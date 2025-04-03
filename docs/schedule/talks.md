@@ -366,7 +366,7 @@ Async is often about tackling IO-bound, high concurrency work, but it can also b
 
 **Speaker: Chris Anderson**
 
-![Chris Anderson Headshot](../assets/images/placeholder.png){: width="150" align=left}
+![Chris Anderson Headshot](../assets/images/speakers/chris.jpg){: width="150" align=left}
 
 _Chris Anderson is a Principal Product Manager for Azure Cosmos DB at Microsoft._
 
