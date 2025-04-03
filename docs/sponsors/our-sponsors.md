@@ -40,6 +40,12 @@ Add your name to this list!
 
 <br clear=all>
 
+## Bronze Sponsors
+
+[![MLOps World Conference Devs](../assets/images/sponsors/mlops.png){: width="150" align="left" .sponsor-black}](https://mlopsworld.com/)
+
+<br clear=all>
+
 ## Community Sponsors
 
 [![Black Python Devs](../assets/images/sponsors/black_python_devs.svg){: width="150" align="left" .sponsor}](https://blackpythondevs.github.io/)
