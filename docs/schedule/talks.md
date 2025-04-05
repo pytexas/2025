@@ -303,24 +303,6 @@ _Oliver Rew is a software engineer at Bloomberg in New York City, where he works
 
 <br clear=all>
 
-## Deploy Your Next Python App with WebAssembly (Wasm): Smaller, Safer, Faster
-
-This talk will highlight the unique advantages of deploying
-Python applications using WebAssembly (Wasm) on the server.
-Moving away from conventional deployment strategies,
-Wasm introduces a groundbreaking approach,
-promising smaller, faster, and more secure server applications.
-We'll explore the integration of Python with server-side Wasm environments,
-focusing on the performance, security, and architectural innovations it offers.
-
-**Speaker: Dan Phillips**
-
-![Dan Phillips Headshot](https://pretalx.com/media/avatars/EXCQLF_fcyeoSP.jpeg){: width="150" align=left}
-
-_Daniel Phillips is a Senior Engineer at Loophole Labs, where one of his main areas of focus is server-side WebAssembly. He is also the founder and organizer of the WebAssembly Chicago group._
-
-<br clear=all>
-
 ## Reducing the "Oops Factor": Pipelines for Securing your Python Development Lifecycle on a budget
 
 The cyber threat landscape is vast, deep and ever-changing.
@@ -371,3 +353,20 @@ Async is often about tackling IO-bound, high concurrency work, but it can also b
 _Chris Anderson is a Principal Product Manager for Azure Cosmos DB at Microsoft._
 
 <br clear=all>
+
+## Hot: pathlib, Not: string paths
+
+Have you seen `pathlib`? If not, once I show you, you will never go back to string paths and `os.path` ever again! `pathlib` turns paths into path objects, which have attributes and methods that cover a number of operations. In this talk, we will:
+
+- Talk about how to create `Path` objects, and how this differs on Windows vs Mac/Linux
+- Talk about the many properties of pure paths
+- Talk about folder operations from `Path` objects, such as creating directory structures and recursive globbing.
+- Talk about file operations, made simpler with `Path` objects, such as reading contents, getting properties like file size, and deleting.
+
+Stop messing with string paths and get with `pathlib`!
+
+**Speaker: Josh Schneider**
+
+![Josh Schneider Headshot](https://pretalx.com/media/avatars/UKGFFX_N1dcoFZ.jpeg){: width="150" align=left}
+
+_Josh Schneider is an Application Security Engineer, former Test Automation Architect and Engineer, and Customer Support agent extraordinaire. Josh is also a big nerd with 2 kids, and a goofy sense of humor._
