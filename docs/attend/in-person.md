@@ -75,6 +75,13 @@ If the parking garage is full, there are other parking options nearby.
 
 **[Parking Options Map](../assets/docs/downtownparkingmap.pdf)**
 
+## Network Event
+
+Our Network Event this year (formerly called the After Party) will take place at [Remedy Austin](https://www.remedyaustin.com/) on the Corner of 3rd & Nueces St. from 6:00pm - 9:00pm Saturday, April 12 following the events of the day. 
+Enjoy food and drink and mingle with other attendees. 
+PyTexas will provide all food and beverage tickets.
+Attendees may wish to bring additional funds if they wish to purchase more outside the bevereage ticket limit.
+
 ## 2025 Health and Safety Guidelines
 
 Our attendees' health and safety remain our top priority as we continue to monitor 
