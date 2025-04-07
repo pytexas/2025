@@ -26,7 +26,7 @@ This is a hands-on tutorial with several mini projects to learn enough about the
 
 You'll leave this tutorial with concrete experience working with these tools, ready to apply them to your projects and continue your learning journey. And you'll also leave with a renewed excitement about the vast world that Python's ecosystem offers.
 
-### Prerequisites
+#### Prerequisites
 
 Hello, and thank you for signing up for my tutorial, "Python Tools for the Real World" on Friday, April 11th from 9 am to noon. The Python ecosystem has an intimidating size, but I'd like to give you a shallow but wide introduction to the tools you've probably heard of but never had time to explore.
 
@@ -50,7 +50,7 @@ Python has become the #1 programming language on GitHub (ranked by number of ind
 
 In this workshop, I will introduce you to the TL;DR ("too long, didn't read") version of how you should handle Python packaging in 2025. You will learn about the current best practices when it comes packaging either your favorite library or your fancy new web application. Note, this session will focus on using the PyPI ecosystem, not the Conda ecosystem (at least not today).
 
-### Prerequisites
+#### Prerequisites
 
 Hey folks,
 
