@@ -26,15 +26,16 @@ This is a hands-on tutorial with several mini projects to learn enough about the
 
 You'll leave this tutorial with concrete experience working with these tools, ready to apply them to your projects and continue your learning journey. And you'll also leave with a renewed excitement about the vast world that Python's ecosystem offers.
 
-!!! Preparation
+### Prerequisites
 
-    Hello, and thank you for signing up for my tutorial, "Python Tools for the Real World" on Friday, April 11th from 9 am to noon. The Python ecosystem has an intimidating size, but I'd like to give you a shallow but wide introduction to the tools you've probably heard of but never had time to explore.
+Hello, and thank you for signing up for my tutorial, "Python Tools for the Real World" on Friday, April 11th from 9 am to noon. The Python ecosystem has an intimidating size, but I'd like to give you a shallow but wide introduction to the tools you've probably heard of but never had time to explore.
 
-    This tutorial is three hours (with two breaks) and covers the terminal, pip, venv, black, ruff, mypy, cookiecutter, uv, pdb, and the logging module. I don't want to lecture the entire time, so there will be exercises you can do on your laptop to build up "muscle memory" of using these tools. You can just take notes with pen and paper, but a lot of the benefit of this tutorial comes from the exercises. (These exercises will be available online after the tutorial as well.)
+This tutorial is three hours (with two breaks) and covers the terminal, pip, venv, black, ruff, mypy, cookiecutter, uv, pdb, and the logging module. I don't want to lecture the entire time, so there will be exercises you can do on your laptop to build up "muscle memory" of using these tools. You can just take notes with pen and paper, but a lot of the benefit of this tutorial comes from the exercises. (These exercises will be available online after the tutorial as well.)
 
-    To get a better idea of the tutorial participants, it'd be great if you could fill out this short 7-question survey today or sometime before the tutorial:
+To get a better idea of the tutorial participants, it'd be great if you could fill out this [short 7-question survey today](https://docs.google.com/forms/d/e/1FAIpQLScLWH9tKbkU-hIHlm4W4W7clLbLN-f0eXXEJF370Q573Mn0lw/viewform?usp=sharing) or sometime before the tutorial.
 
-    https://docs.google.com/forms/d/e/1FAIpQLScLWH9tKbkU-hIHlm4W4W7clLbLN-f0eXXEJF370Q573Mn0lw/viewform?usp=sharing
+Al
+
 
 #### Presenter: Al Sweigart
 
@@ -50,21 +51,22 @@ Python has become the #1 programming language on GitHub (ranked by number of ind
 
 In this workshop, I will introduce you to the TL;DR ("too long, didn't read") version of how you should handle Python packaging in 2025. You will learn about the current best practices when it comes packaging either your favorite library or your fancy new web application. Note, this session will focus on using the PyPI ecosystem, not the Conda ecosystem (at least not today).
 
-!!! Preparation
+### Prerequisites
 
-    Hey folks,
+Hey folks,
 
-    Can't wait to dig into the new wave of Python packaging with you next week at PyTexas!
+Can't wait to dig into the new wave of Python packaging with you next week at PyTexas!
 
-    The workshop will have a good mix of me walking through how things work, but the best way to learn is by following along and trying things out yourself—especially with the exercises we'll be doing throughout.
+The workshop will have a good mix of me walking through how things work, but the best way to learn is by following along and trying things out yourself—especially with the exercises we'll be doing throughout.
 
-    To save us some time getting started, please make sure you've got Docker installed and working: https://www.docker.com. Then go ahead and clone this GitHub repository: https://github.com/gaborbernat/new-wave-of-python-packaging-binder. You'll find setup instructions in the README—just follow one of the local setup options.
+To save us some time getting started, please make sure you've got [Docker](https://www.docker.com) installed and working. Then go ahead and clone this GitHub repository [https://github.com/gaborbernat/new-wave-of-python-packaging-binder](https://github.com/gaborbernat/new-wave-of-python-packaging-binder). You'll find setup instructions in the README—just follow one of the local setup options.
 
-    We'll also have the option to use https://mybinder.org, but heads up: it can be a bit flaky at times. Running things locally will give you the smoothest experience. If you hit any snags, feel free to open an issue in the GitHub repo.
+We'll also have the option to use [https://mybinder.org](https://mybinder.org), but heads up: it can be a bit flaky at times. Running things locally will give you the smoothest experience. If you hit any snags, feel free to open an issue in the GitHub repo.
 
-    Looking forward to seeing you there!
+Looking forward to seeing you there!
 
-    Cheers, Bernát
+Cheers, Bernát
+
 
 #### Presenter: Bernát Gábor
 

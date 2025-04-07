@@ -37,6 +37,7 @@ Add your name to this list!
 ## Live Captioning Sponsors
 
 [![Caktus Group Logo](../assets/images/sponsors/caktus.png){: width="200" align="left" .sponsor}](https://www.caktusgroup.com/)
+[![uStudio Group Logo](../assets/images/sponsors/ustudio.png){: width="250" align="left" .sponsor}](https://ustudio.com/)
 
 <br clear=all>
 
