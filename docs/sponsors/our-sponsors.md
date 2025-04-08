@@ -68,3 +68,5 @@ Add your name to this list!
 
 
 [![Pretix Sponsor Logo](../assets/images/sponsors/pretix.svg){: width="300" align="left" .sponsor}](https://pretix.eu/)
+
+[![TCP Sponsor Logo](../assets/images/sponsors/tcp.png){: width="150" align="left" .sponsor}](https://www.talentconnectprotocol.com)
