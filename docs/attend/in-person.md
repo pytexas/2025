@@ -37,26 +37,35 @@ If you are looking for close, walkable hotels, here are some options:
 
 To name a few....
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1NLuUc4jblcWRTQzlvw5oZGWa7dWPyhA&ehbc=2E312F" width="640" height="480"></iframe>
+
 #### BBQ
 
+* [Lamberts](https://maps.app.goo.gl/KxnKaTX6MiUhcZeCA) _We recommend a reservation_
 * [Terry Black's Barbecue](https://g.page/terryblacksbbq?share)
 * [Cooper's Old Time Pit Bar-B-Que](https://goo.gl/maps/9dgX5GfyCg2oDr6FA)
 * [Stubb's Bar-B-Q](https://goo.gl/maps/XwbTnL3pbnYhFeBq9)
 
 #### Tex-Mex
 
-* [El Alma](https://g.page/elalma_atx?share)
-* [Baby Acapulco](https://goo.gl/maps/AxxBhMRVGL1owEnG8)
-* [Chuy's](https://goo.gl/maps/juPHwCYEv4ZXnxBG6)
+* [Torchy's Taco's](https://maps.app.goo.gl/zQmnH6qPTruajPu77)
+* [Freebirds World Burrito](https://maps.app.goo.gl/zQmnH6qPTruajPu77)
 * [Taco Joint](https://goo.gl/maps/a6eJJBmQ7m2fsuaMA)
+* [Chuy's](https://goo.gl/maps/juPHwCYEv4ZXnxBG6)
+* [Velvet Taco](https://maps.app.goo.gl/La1zkdVqHVGXrtsP7)
+* [Tacodeli](https://maps.app.goo.gl/8VWhyYsTpWQAVwci7)
+* [El Alma](https://g.page/elalma_atx?share)
+* [Taquero Mucho](https://maps.app.goo.gl/GtRXukH5KChAgtw29)
 
 #### Fast Food
 
 * [Whataburger (A Texas Classic)](https://goo.gl/maps/KSvhPNudTdJEypU17)
-* [Starbucks](https://goo.gl/maps/bJPQEDYay6okAru49)
-* [McDonald's](https://goo.gl/maps/BbEUyKGv4YHEyDAJ8)
-* [P.Terry's Burger Stand](https://g.page/pterrys-barton-springs?share)
+* [sweetgreen](https://maps.app.goo.gl/NTV238BjdLw1s2cm6)
 * [Whole Foods Market](https://goo.gl/maps/fHnstkp1TMBvndKy8)
+* [Starbucks](https://goo.gl/maps/bJPQEDYay6okAru49)
+* [The Picnic - Food Truck Park](https://maps.app.goo.gl/MpjysCdGFggWU8986)
+* [Thundercloud Subs](https://maps.app.goo.gl/NHZTYjyjJRQPCmAb8)
+* [P.Terry's Burger Stand](https://g.page/pterrys-barton-springs?share)
 
 ## Parking
 
