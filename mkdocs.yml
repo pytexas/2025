@@ -67,7 +67,7 @@ plugins:
         color: "#FCE004"
   - redirects:
       redirect_maps:
-        "slido.md": "https://slido.com"
+        "slido.md": "https://app.sli.do/event/jvbu7Qns7A1BRRsXJQqgHt"
         "schedule/full_schedule.md": "schedule/index.md"
 extra:
   generator: false
