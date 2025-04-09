@@ -117,20 +117,6 @@ _Andrew Knight, also known as 'Pandy', is the Automation Panda. He's a software 
 
 <br clear=all>
 
-## API Design for Those That Don't RTFM (aka everyone)
-
-**Speaker: Lynn Root**
-
-Your users shouldn't need to go on a scavenger hunt through documentation just to get started using your API.
-This talk explores how to bridge the gap between usability theory and practical API design,
-focusing on creating interfaces that are so intuitive that the docs become optional.
-
-![Lynn Root Headshot](https://pretalx.com/media/avatars/G38LT7_Js6xI2K.jpg){: width="150" align=left}
-
-_Lynn Root is a Staff Engineer at Spotify and an adjunct professor at Columbia University's Graduate School of Engineering. She is a seasoned speaker on building and maintaining distributed systems, and is the tech lead for governance compliance for Spotify's ML/AI platform. Lynn is a global leader of diversity in the Python community, the Chair of the PyLadies Global Council, and a PSF fellow and the former Vice Chair of the PSF's Board of Directors. When her hands are not on a keyboard, they are usually holding a pair of knitting needles or a bass guitar._
-
-<br clear=all>
-
 ## Building a distributed asyncio event loop
 
 To support distributed, durable (i.e. resumable) asynchronous code in Temporal,
