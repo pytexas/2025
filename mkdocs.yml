@@ -69,6 +69,7 @@ plugins:
       redirect_maps:
         "slido.md": "https://app.sli.do/event/jvbu7Qns7A1BRRsXJQqgHt"
         "schedule/full_schedule.md": "schedule/index.md"
+        "reg.md": "https://forms.gle/2zJZKi68eJcefoDW7"
 extra:
   generator: false
   social:
