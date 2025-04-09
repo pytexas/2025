@@ -34,23 +34,6 @@ All talks will be streamed via an unlisted stream on the PyTexas YouTube channel
 This link will be provided the day of the conference, prior to the start of the event.
 Comments on the video will be disabled, and we will ask all attendees to interact within the Discord server.
 
-<!--
-All talks will be live-streamed in the `pytexas-stage` of the [PyTexas Discord Server](https://discord.gg/jNPAbcNukj).
-Stages allow you to join in and listen without the ability to speak or turn on your
-camera. When you are in the stage you will be able to see the live stream. To make
-it bigger, double click on the video to enlarge it (unfortunately a _true_ fullscreen
-option is not available).
-
-![Discord Stage](../assets/images/virtual/stage.png){: width="750"}
-
-_In this image Mason is on the stage speaking and presenting the screen. 
-You would double click the presentation to make it bigger._
-
-**We _highly_ recommend using the Discord application to view stages.** We have
-had people experience issue when trying to use the Discord Web Application with
-Stages. For the best expeirience we recommend downloading and installing the 
-[Discord App](https://discord.com/download). ->>
-
 ## Interacting with Other Attendees
 
 We encourage you to interact with your fellow attendees! Networking at conferences
