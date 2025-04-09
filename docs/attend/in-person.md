@@ -5,6 +5,10 @@ description: Get your ticket today!
 
 # Attend PyTexas
 
+Click below to access the Ateendee Guide!
+
+[Attendee Guide](https://docs.google.com/document/d/1IwWFzICFNkjHbZRPB-uVeshcWkmZ0RL_2Kwup_1fzCY/edit?usp=sharing){: .md-button .pytx-button--primary}
+
 ## Buy Tickets
 
 [Purchase PyTexas 2025 Tickets](https://pretix.eu/pytexas/2025/){: .md-button .pytx-button--primary}
