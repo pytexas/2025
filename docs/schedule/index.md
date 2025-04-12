@@ -25,8 +25,9 @@ description: A full schedule grid for the event
 | 10:55&nbsp;AM      |   [Demystifying the World of Serializers (and Deserializers) for SQLAlchemy ORM Models in Python](./talks/#demystifying-the-world-of-serializers-and-deserializers-for-sqlalchemy-orm-models-in-python)<br/> Ritik Mathur    |
 | 11:25&nbsp;AM      |                                                [The Pythonic Ideal in The Age of Generative AI](./talks/#the-pythonic-ideal-in-the-age-of-generative-ai)<br/>Heather Crawford                                                |
 | 11:55&nbsp;PM      |                                       [**SPONSOR TALK** Generators: The Unsung Hero of Async Programming](./talks/#generators-the-unsung-hero-of-async-programming)<br/>Chris Anderson                                       |
-| 12:25&nbsp;PM      |                                                                                                            Lunch                                                                                                             |
-| 02:10&nbsp;PM      |                          [LLMs as Bug Hunters: Leveraging LLMs to Discover Python Vulnerabilities](./talks/#llms-as-bug-hunters-leveraging-llms-to-discover-python-vulnerabilities)<br/>Jessy Ayala                          |
+| 12:25&nbsp;PM      |                                                                                                            Lunch (12:25 PM - 2:10 PM)                                                                                                            |
+| 01:40&nbsp;PM      |                          _**Virtual Only, During Lunch[^1]**_ <br> [LLMs as Bug Hunters: Leveraging LLMs to Discover Python Vulnerabilities](./talks/#llms-as-bug-hunters-leveraging-llms-to-discover-python-vulnerabilities) <br/>Jessy Ayala                          |
+| 02:10&nbsp;PM      |                          [Demystifying AI Agents with Python Code](./talks/#demystifying-ai-agents-with-python-code)<br/>William Horton                         |
 | 02:40&nbsp;PM      |                                                        [Building a Distributed Asyncio Event Loop](./talks/#building-a-distributed-asyncio-event-loop)<br/>Chad Retz                                                         |
 | 03:10&nbsp;PM      |    [Signal Processing in Electrochemistry with Python: Applications to the US Opioid Crisis](./talks/#signal-processing-in-electrochemistry-with-python-applications-to-the-us-opioids-crisis)<br/>Rodrigo Silva Ferreira    |
 | 03:40&nbsp;PM      |                                                                                                       15-Minute Break                                                                                                        |
@@ -36,6 +37,8 @@ description: A full schedule grid for the event
 | 05:45&nbsp;PM      |                                                                                                   Walk to Networking Event                                                                                                   |
 | 06:00&nbsp;PM      |                                                                                                   Networking Event Starts                                                                                                    |
 | 09:00&nbsp;PM      |                                                                                                    Networking Event Ends                                                                                                     |
+
+[^1]: Our speaker traveled to Austin, but became ill upon arrival. In order to allow him to present, he will join the Discord Stage from his hotel room and present his talk. Due to this, the talk wont be streamed to YouTube and won't have any live captions.
 
 ## Sunday
 
