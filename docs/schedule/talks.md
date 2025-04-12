@@ -356,3 +356,15 @@ Stop messing with string paths and get with `pathlib`!
 ![Josh Schneider Headshot](https://pretalx.com/media/avatars/UKGFFX_N1dcoFZ.jpeg){: width="150" align=left}
 
 _Josh Schneider is an Application Security Engineer, former Test Automation Architect and Engineer, and Customer Support agent extraordinaire. Josh is also a big nerd with 2 kids, and a goofy sense of humor._
+
+<br clear=all>
+
+## Demystifying AI Agents with Python Code
+
+Everyone’s talking about AI Agents! But what are they, and how can you build them? In this talk, you will learn about how AI Agents are defined, and their key components, including LLMs, tools, and memory. Moving beyond abstract definitions, I will show you how you can implement AI Agents in Python using the OpenAI Python SDK along with basic Python concepts like functions, while loops, and if statements. From there I will demonstrate how Microsoft’s open-source AutoGen framework abstracts away some of the Python boilerplate for you, allowing for simpler setup when you are working with many agents at once. By the end, you will be empowered to create your own agents that access your own APIs to complete tasks that you define.
+
+**Speaker: William Horton**
+
+![William Horton Headshot](https://pretalx.com/media/avatars/V73QRP_UIsrld4.jpg){: width="150" align=left}
+
+_William Horton is a Staff Machine Learning Engineer at Included Health. Over the past year he has led the development of the company's GenAI platform._
