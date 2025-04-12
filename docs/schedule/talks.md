@@ -365,6 +365,6 @@ Everyone’s talking about AI Agents! But what are they, and how can you build t
 
 **Speaker: William Horton**
 
-![Josh Schneider Headshot](https://pretalx.com/media/avatars/V73QRP_UIsrld4.jpg){: width="150" align=left}
+![William Horton Headshot](https://pretalx.com/media/avatars/V73QRP_UIsrld4.jpg){: width="150" align=left}
 
 _William Horton is a Staff Machine Learning Engineer at Included Health. Over the past year he has led the development of the company's GenAI platform._
