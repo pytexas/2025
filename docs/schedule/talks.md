@@ -308,26 +308,6 @@ _Simon is a Senior Cloud Engineer at Trade Me, with a background in software dev
 
 <br clear=all>
 
-## Pattern Matching in Python, A Functional Programming Perspective with match-case
-
-This talk is about Python's match-case statement,
-through the lens of functional programming.
-Attendees will explore how pattern matching brings
-declarative, clean, and efficient coding practices to Python,
-aligning with functional programming principles such as immutability and pure functions.
-The session will include real-world use cases, such as handling recursive algorithms,
-data transformation pipelines, and functional state machines.
-The talk will emphasize the practical benefits of using match-case,
-with a focus on performance, avoiding side effects, and writing maintainable code.
-
-**Speaker: Sameer Shukla**
-
-![Sameer Shukla Headshot](https://pretalx.com/media/avatars/HMNDYW_06M3H5l.jpeg){: width="150" align=left}
-
-_I'm Sameer Shukla, a dedicated engineer with a rich background spanning 15 years in software design and development. Beyond my role as an engineer, I am an author and researcher. I find joy in continually learning and sharing insights about cutting-edge tools and technologies through my contributions to diverse online learning platforms and esteemed international journals._
-
-<br clear=all>
-
 ## Generators: The Unsung Hero of Async Programming
 
 Async is often about tackling IO-bound, high concurrency work, but it can also be about long running, interruptible work. While we frequently think about generators in the context of iterators, generators are a great fit in any scenario where the function needs to be interruptible and resumable. In this talk, we’ll take a fresh look at generators and look at how we used them to build a durable orchestration framework.
