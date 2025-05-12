@@ -21,17 +21,13 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    Early bird tickets for PyTexas 2025 are now on sale! Get yours while they last!
-
-    [:octicons-arrow-right-24: Purchase Tickets](https://pretix.eu/pytexas/2025/)
+    PyTexas has passed, join us for [upcoming conferences!](https://pytexas.org/conference)
 
 -   :fontawesome-solid-microphone-lines:{ .lg .middle} __Speak__
 
     ---
 
-    Our Call for Proposals (CFP) is open! Get your proposal in by December 4.
-
-    [:octicons-arrow-right-24: Submit to the CFP](https://pretalx.com/pytexas-2025/)  
+    PyTexas 2025 [Talks](schedule/talks) have been published to our [YouTube Channel](https://www.youtube.com/playlist?list=PL0MRiRrXAvRiSmPn_LDdhDbtZwu6g4xct)! You can also see them on the [Schedule](schedule/talks) page.
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 

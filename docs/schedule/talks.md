@@ -16,6 +16,8 @@ Your user's primary concern isn't what your product is, or how it's made.
 Your user has a problem they want to solve, and they want to know how to use your product to do that.
 They're looking for a verb. In this talk, you'll find the verbs that go with your nouns, and how that translates into readable documentation.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rYv8UOfqIG4?si=YE2LAqu15frT4rIT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Brian MacDonald**
 
 ![Brian MacDonald Headshot](https://pretalx.com/media/avatars/RKDBGN_PKXFOla.jpg){: width="150" align=left}
@@ -39,6 +41,8 @@ Do we need to be worried about AI taking over coding jobs?
 This talk will cover why learning to write Pythonic code is still a valuable skill to pursue,
 and will introduce techniques to add generative AI and pair programming AI tools into your teaching (and learning!).
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FP9VoFPJsiQ?si=iXo0-Up5KkrRJ-e7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Heather Crawford**
 
 ![Heather Crawford Headshot](https://pretalx.com/media/avatars/QF9AEL_1NSZLre.jpg){: width="150" align=left}
@@ -56,6 +60,8 @@ This talk will walk through a `strict`ly typed PyQt/PySide GUI application skele
 `enum`-based error passing, type-aware `match` statements,
 and how generic types empower function decorators, decorator factories, and class decorators.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ILC-y-iC91g?si=ZwPBXj--n0KpWe8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: George Collins**
 
 ![George Collins Headshot](https://pretalx.com/media/avatars/ZE8DZC_u8xhtzP.png){: width="150" align=left}
@@ -70,6 +76,8 @@ OpenTelemetry (OTel) is a comprehensive suite of APIs, libraries, and tools
 designed to collect, generate, and export telemetry data,
 including metrics, logs, and traces, from software applications.
 This talk will cover critical concepts related to OTel and show you how to integrate it into your Python application.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xlWCQOlQV0M?si=jZv2pn0EpmR-wkz7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Jessica Garson**
 
@@ -87,6 +95,8 @@ into interactive dashboards that foster transparency and empower citizens.
 Through real-world examples from Austin's public sector projects,
 attendees will learn how data visualization and analytics can
 strengthen community engagement, enhance decision-making, and create a more informed society.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8lNuFDLapxw?si=f_9t4yEJUTbVBl_h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Tanvi Sharma**
 
@@ -109,6 +119,8 @@ and also how to write _good_ tests with them.
 We will also gain immense appreciation for mature test frameworks like `pytest`
 that save our time by providing off-the-shelf testing features that deliver serious value.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2POgWRZI2MA?si=ynGvEY7bNlqJhetw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Pandy Knight**
 
 ![Pandy Knight Headshot](https://pretalx.com/media/avatars/8WV93W_RHSYvWa.jpg){: width="150" align=left}
@@ -123,6 +135,8 @@ To support distributed, durable (i.e. resumable) asynchronous code in Temporal,
 a custom asyncio event loop was required.
 We will cover how asyncio event loops work under the hood,
 considerations for building a custom, deterministic one, and gotchas encountered along the way.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wEbUzMYlAAI?si=VO7xhNjoMhOkFgQV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Chad Retz**
 
@@ -174,6 +188,8 @@ In this talk I'll tell the story of my journey to build a tool with a net positi
 from the initial idea to the rollout and adoption.
 I'll cover the principles that guided my decisions, the tools we use, and the outcomes we've seen so far.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BbWTiGJQ9X0?si=9J3BuAs8sRjfcE3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Dane Hillard**
 
 ![Dane Hillard Headshot](https://pretalx.com/media/avatars/UF7KGY_qpZBciz.jpg){: width="150" align=left}
@@ -203,6 +219,8 @@ enabled by libraries like _hyperopt_ and _ray-tune_.
 By doing so, my hope is to demonstrate how Python could be extremely useful
 in helping address problems at the intersection of statistics, public health, and public policy.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AZkYrvVoJ4A?si=YunuvHJNJqN0_Ii6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Rodrigo Silva Ferreira**
 
 ![Rodrigo Silva Ferreira Headshot](https://pretalx.com/media/avatars/UYRBHX_gusMbKM.png){: width="150" align=left}
@@ -222,6 +240,8 @@ their advanced use cases, and implementation.
 We will also compare this to the features of commonly-used serializer alternatives,
 such as SerializerMixin, Marshmallow-SQLAlchemy, ColanderAlchemy, Serialchemy, SQLAthanor, and more.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ka4VZN1yNtc?si=8FhiPexxI_YgN7aL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Ritik Mathur**
 
 ![Ritik Mathur Headshot](https://pretalx.com/media/avatars/NJMSJL_P7hOqPs.jpg){: width="150" align=left}
@@ -235,6 +255,8 @@ _Ritik Mathur is a software engineer in Bloomberg's London Office, where he has 
 Gain insights from my first year at the PSF, exploring how the CPython project,
 its surrounding efforts, and the PSF operate.
 Discover how you can contribute - code to documentation - to help shape Python's future.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EmQiq4fIv1A?si=hctvpgGvjVNgxbIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Jacob Coffee**
 
@@ -251,6 +273,8 @@ especially in computationally-intensive tasks.
 In contrast, Rust enables one to write low-level code that takes full advantage of the underlying hardware.
 Furthermore, Rust (just like Python) has a vibrant ecosystem with many great libraries.
 PyO3 (together with the maturin build back-end) allows you to easily integrate the two languages together and make use of the best of both.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/krJZmNvUqK4?si=jKCLxArGftwO4LKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Bernát Gábor**
 
@@ -281,6 +305,8 @@ You'll learn strategies for:
 
   Whether you're a hobbyist looking to make your home automation more robust or a professional developer designing industrial systems, you'll walk away with concrete patterns and best practices to build more reliable embedded Python applications.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VC8_IiVE-H4?si=tGsjlXbICIipdVOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Oliver Rew**
 
 ![Oliver Rew Headshot](https://pretalx.com/media/avatars/ZQBLYN_BY3X3Rn.jpg){: width="150" align=left}
@@ -300,6 +326,8 @@ the ways developers commonly fall short, and just how cheap,
 quick and easy it can be to get some quick wins
 and drastically reduce the "oops factor" of our Python development lifecycle.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MBcC7zh0Sdw?si=5I5VtQfL8wlU-1aE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Simon Merrick**
 
 ![Simon Marrick Headshot](https://pretalx.com/media/avatars/9JRZ8S_Xi0n7Iq.jpeg){: width="150" align=left}
@@ -311,6 +339,8 @@ _Simon is a Senior Cloud Engineer at Trade Me, with a background in software dev
 ## Generators: The Unsung Hero of Async Programming
 
 Async is often about tackling IO-bound, high concurrency work, but it can also be about long running, interruptible work. While we frequently think about generators in the context of iterators, generators are a great fit in any scenario where the function needs to be interruptible and resumable. In this talk, we’ll take a fresh look at generators and look at how we used them to build a durable orchestration framework.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CEVXYFoWkZQ?si=dj74FcGfgoGqPurm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Chris Anderson**
 
@@ -331,6 +361,8 @@ Have you seen `pathlib`? If not, once I show you, you will never go back to stri
 
 Stop messing with string paths and get with `pathlib`!
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L51Shzb5SSM?si=TnUTyMPXa4Ych93G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Josh Schneider**
 
 ![Josh Schneider Headshot](https://pretalx.com/media/avatars/UKGFFX_N1dcoFZ.jpeg){: width="150" align=left}
@@ -342,6 +374,8 @@ _Josh Schneider is an Application Security Engineer, former Test Automation Arch
 ## Demystifying AI Agents with Python Code
 
 Everyone’s talking about AI Agents! But what are they, and how can you build them? In this talk, you will learn about how AI Agents are defined, and their key components, including LLMs, tools, and memory. Moving beyond abstract definitions, I will show you how you can implement AI Agents in Python using the OpenAI Python SDK along with basic Python concepts like functions, while loops, and if statements. From there I will demonstrate how Microsoft’s open-source AutoGen framework abstracts away some of the Python boilerplate for you, allowing for simpler setup when you are working with many agents at once. By the end, you will be empowered to create your own agents that access your own APIs to complete tasks that you define.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iqsaI_i8Irk?si=l3408U9YZZwF1uBb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: William Horton**
 
