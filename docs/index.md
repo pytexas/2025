@@ -27,7 +27,7 @@ Join us for the largest gathering of Python developers within the great state of
 
     ---
 
-    PyTexas 2025 [Talks](schedule/talks) have been published to our [YouTube Channel](https://www.youtube.com/playlist?list=PL0MRiRrXAvRiSmPn_LDdhDbtZwu6g4xct)! You can also see them on the [Schedule](schedule/talks) page.
+    PyTexas 2025 [Talks](schedule/talks.md) have been published to our [YouTube Channel](https://www.youtube.com/playlist?list=PL0MRiRrXAvRiSmPn_LDdhDbtZwu6g4xct)! You can also see them on the [Schedule](schedule/talks.md) page.
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 

@@ -5,7 +5,7 @@ description: We are proud to have Mariatta and Jay Miller join us to deliver the
 
 ## Mariatta
 
-![Mariatta](../../assets/images/speakers/mariatta.jpeg){: width="300" align=left}
+![Mariatta](../assets/images/speakers/mariatta.jpeg){: width="300" align=left}
 
 Mariatta is a Python Core Developer.
 She co-hosts the podcast series PyPodcats: Hidden Figures of Python,
@@ -23,7 +23,7 @@ You might also know her from the internet hashtags #IceCreamSelfie and #TypoOfTh
 
 ## Jay Miller
 
-![Jay Miller](../../assets/images/speakers/jay_miller.jpg){: width="300" align=left}
+![Jay Miller](../assets/images/speakers/jay_miller.jpg){: width="300" align=left}
 
 Jay is a Staff Developer Advocate at Aiven.
 Jay is also the founder of Black Python Devs
